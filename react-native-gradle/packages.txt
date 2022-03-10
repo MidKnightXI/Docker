@@ -1,4 +1,2 @@
-build-tools;32.0.0
 platform-tools
-platforms;android-32
 extras;google;market_licensing
